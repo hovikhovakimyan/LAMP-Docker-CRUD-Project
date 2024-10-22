@@ -2,6 +2,13 @@
 
 This is a basic CRUD (Create, Read, Update, Delete) application built using the LAMP (Linux, Apache, MySQL, PHP) stack.
 
+## Video Demo
+A demo of the application can be view here https://www.youtube.com/watch?v=AZ5WNZPQU1g
+
+## Disclaimer
+
+**This application is for demonstration purposes only.** It does not follow best practices for security, performance, or code organization. It should not be used as a template for production applications. The code is intentionally simplified to showcase basic CRUD operations and Docker setup.
+
 ## Setup
 
 1. Clone this repository to your local machine.
@@ -38,5 +45,5 @@ This is a basic CRUD (Create, Read, Update, Delete) application built using the 
 - `delete.php`: Handles record deletion
 - `db.php`: Database connection file
 
-## Video Demo
-A demo of the application can be view here https://www.youtube.com/watch?v=AZ5WNZPQU1g
+
+
